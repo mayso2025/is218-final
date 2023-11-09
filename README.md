@@ -2,7 +2,7 @@
 IS218 Final Group Project 
 | Date       | Tuesday Sign-in | Thursday Sign-in |
 |------------|-----------------|------------------|
-| Nov 7, 2023|                 |                  |
+| Nov 7, 2023|         Mikey        |                  |
 | Nov 9, 2023|                 |                  |
 | Nov 14, 2023|                |                  |
 | Nov 16, 2023|                |                  |
