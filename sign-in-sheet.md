@@ -1,10 +1,10 @@
 
 IS218 Final Group Project 
-| Date       | Yardley         | Mike             | Cerklos        |
+| Date       | Yardley         | Mike             | cerlos        |
 |------------|-----------------|------------------|----------------|
 | Nov 7, 2023|          X      |       X          |        X       |
 | Nov 9, 2023|          X      |       X          |        X       |
-| Nov 14, 2023|         X      |       X          |        X
+| Nov 14, 2023|         X      |       X          |        
 | Nov 16, 2023|                |                  |
 | Nov 21, 2023|                |                  |
 | Nov 23, 2023|                |                  |
