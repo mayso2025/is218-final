@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "next.js": "^1.0.3",
     "node": "^21.1.0",
     "playwright": "^1.40.0"
   }
