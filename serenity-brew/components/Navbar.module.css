@@ -1,0 +1,29 @@
+.navbar {
+    background-color: rgb(251,251,214);
+    overflow: hidden;
+  }
+  
+  .navList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navItem {
+    margin: 0 10px;
+  }
+  
+  .navLink {
+    display: block;
+    color: #6A381F;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navLink:hover {
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
